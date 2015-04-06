@@ -56,6 +56,7 @@ namespace MailSender
                     {
                         using (var client = new System.Net.Mail.SmtpClient(srv, port))
                         {
+                            client.EnableSsl = port == 465; // Auto detect SSL
                             client.Credentials = new System.Net.NetworkCredential(usr, pwd);
                             client.Send(mail);
                         }
