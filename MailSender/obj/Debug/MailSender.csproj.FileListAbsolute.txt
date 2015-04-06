@@ -1,0 +1,16 @@
+C:\Users\sstauffer\AppData\Local\Temporary Projects\MailSender\bin\Debug\MailSender.exe.config
+C:\Users\sstauffer\AppData\Local\Temporary Projects\MailSender\bin\Debug\MailSender.exe
+C:\Users\sstauffer\AppData\Local\Temporary Projects\MailSender\bin\Debug\MailSender.pdb
+C:\Users\sstauffer\AppData\Local\Temporary Projects\MailSender\obj\Debug\MailSender.frmSendMail.resources
+C:\Users\sstauffer\AppData\Local\Temporary Projects\MailSender\obj\Debug\MailSender.Properties.Resources.resources
+C:\Users\sstauffer\AppData\Local\Temporary Projects\MailSender\obj\Debug\MailSender.csproj.GenerateResource.Cache
+C:\Users\sstauffer\AppData\Local\Temporary Projects\MailSender\obj\Debug\MailSender.exe
+C:\Users\sstauffer\AppData\Local\Temporary Projects\MailSender\obj\Debug\MailSender.pdb
+C:\Users\sstauffer\Documents\Visual Studio 2013\Projects\MailSender\MailSender\bin\Debug\MailSender.exe.config
+C:\Users\sstauffer\Documents\Visual Studio 2013\Projects\MailSender\MailSender\bin\Debug\MailSender.exe
+C:\Users\sstauffer\Documents\Visual Studio 2013\Projects\MailSender\MailSender\bin\Debug\MailSender.pdb
+C:\Users\sstauffer\Documents\Visual Studio 2013\Projects\MailSender\MailSender\obj\Debug\MailSender.frmSendMail.resources
+C:\Users\sstauffer\Documents\Visual Studio 2013\Projects\MailSender\MailSender\obj\Debug\MailSender.Properties.Resources.resources
+C:\Users\sstauffer\Documents\Visual Studio 2013\Projects\MailSender\MailSender\obj\Debug\MailSender.csproj.GenerateResource.Cache
+C:\Users\sstauffer\Documents\Visual Studio 2013\Projects\MailSender\MailSender\obj\Debug\MailSender.exe
+C:\Users\sstauffer\Documents\Visual Studio 2013\Projects\MailSender\MailSender\obj\Debug\MailSender.pdb
